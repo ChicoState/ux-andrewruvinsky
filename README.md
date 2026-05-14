@@ -5,4 +5,4 @@ My name is Andrew Ruvinsky, and I'm studying computer science at CSU, Chico. I'm
 ![Image of myself](assets/andrew_picture.png)
 
 ## UX Journal
-[Clone Hero Interactions](j02.md)
+[Guitar Hero Interactions](j02.md)
